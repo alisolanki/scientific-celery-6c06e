@@ -55,7 +55,7 @@ sections:
     address: 'Ali Solanki,'
     phone: +91-885-028-3085
     email: geeks@alisolanki.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/1'
 seo:
   title: FAQ
   description: This is the faq page
