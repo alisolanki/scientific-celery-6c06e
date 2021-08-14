@@ -53,7 +53,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Ali Solanki,'
-    phone: +1-202-555-0112
+    phone: +91-885-028-3085
     email: geeks@alisolanki.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
