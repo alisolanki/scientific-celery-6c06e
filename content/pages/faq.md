@@ -47,10 +47,10 @@ sections:
           designer a couple of months ago.
 
 
-          \</br>
+          \<br>\</br>
 
 
-          \</br>
+          \<br>\</br>
 
 
           Q: What’s the meaning of life?  A: We’re not quite sure. But building
