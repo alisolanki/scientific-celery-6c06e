@@ -44,7 +44,9 @@ sections:
       - question: Rapid-fire questions
         answer: >
           Q: Why is this Planty theme so beautiful?  A: We hired our first
-          designer a couple of months ago. 
+          designer a couple of months ago.
+
+
 
 
           Q: What’s the meaning of life?  A: We’re not quite sure. But building
