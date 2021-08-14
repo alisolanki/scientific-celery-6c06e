@@ -45,16 +45,6 @@ sections:
         answer: >
           Q: Why is this Planty theme so beautiful?  A: We hired our first
           designer a couple of months ago.
-
-
-          \<br>\</br>
-
-
-          \<br>\</br>
-
-
-          Q: What’s the meaning of life?  A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
